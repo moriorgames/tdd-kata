@@ -1,0 +1,17 @@
+{
+    "name": "moriorgames/tdd-kata",
+    "type": "project",
+    "license": "proprietary",
+    "description": "TDD Kata to do some exploratory tests on my own",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    }
+}
